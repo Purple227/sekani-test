@@ -1,20 +1,18 @@
 
-##  Bellewise
+##  Sekani test
 
-Bellewise is a food plug that get all your favorite meal from any restaurant and delivered to you in a few clicks.
+Sekani technical test
 
 ## Below is a screen-shot of the application UI
 
-![](/public/images/screenshot/Home.png)
-![](/public/images/screenshot/Order.png)
-![](/public/images/screenshot/OrderList.png)
+![](/public/images/Home.png)
 
 
 ## How To Install My App
 
 How to install my app 
 
-1) git clone https://github.com/Purple227/bellewise
+1) git clone https://github.com/Purple227/sekani-test.git
 
 2) cd into clone folder
 
