@@ -1,0 +1,67 @@
+@charset "utf-8";
+
+
+// Colors
+@import 'partials/_color';
+
+// Reuse Code
+@import 'partials/_reuse_code';
+
+// Bulma Framework
+@import "~bulma/bulma";
+
+// Page Loader
+@import "~bulma-pageloader/dist/css/bulma-pageloader.min.css";
+
+// Fontawesome icons and web font
+@import "~@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "~@fortawesome/fontawesome-free/scss/solid.scss";
+@import "~@fortawesome/fontawesome-free/scss/brands.scss";
+
+// Getting animate css
+@import "~animate.css/animate";
+
+
+
+.hero
+{
+  background-color: $orange;
+  margin-top: 25px;
+}
+
+.footer
+{
+	background-color: $light-salmon;
+	margin-top: 15px;
+  border-radius: 2px solid $light-salmon;
+}
+
+#app
+{
+	padding: 35px;
+}
+
+.is-bold
+{
+	font-weight: bold;
+}
+
+.orange
+{
+  color: $orange;
+}
+
+.light-orange
+{
+  color: $light-salmon;
+}
+
+.bg-orange
+{
+  background-color: $orange;
+}
+
+.bg-light-orange
+{
+  background-color: $light-salmon;
+}
